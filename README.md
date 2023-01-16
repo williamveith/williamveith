@@ -5,7 +5,7 @@
 </a>
 &nbsp
 &nbsp
-<a href="https://www.youtube.com/channel/UCp56P2lQgt3OdjuBo53tH4A" rel="nofollow">
+<a href="https://www.youtube.com/@technicaltrainingtutorials" rel="nofollow">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" width="190"/>
 </a>
 </p>
